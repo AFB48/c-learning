@@ -1,0 +1,4 @@
+﻿  STL.cpp
+C:\Users\dhw38375\source\repos\STL\STL\STL.cpp(14,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\dhw38375\source\repos\STL\STL\STL.cpp(15,10): warning C4018: '>=': signed/unsigned mismatch
+  STL.vcxproj -> C:\Users\dhw38375\source\repos\STL\Debug\STL.exe
